@@ -4,15 +4,15 @@
     margin:0%;
     padding: 0%;
     box-sizing: border-box;
-    justify-content:center;
     background-image: url(https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523);
     background-repeat:no-repeat;
     background-size: cover;
     height: 100vh;
-    width: 50%;
+    width: 50vw;
 }
 
 .in{
+    
     color:white;
     text-align: center;
     font-family: "Roboto", sans-serif;
@@ -23,9 +23,13 @@
 #btn{
     background: orange;
     color:white;
+    font-size: 20px;
+    padding: 5px;
+    
 }
 h1{
     font-size: 5em;
+    margin-top:0% ;
 }
 h3{
     font-size: 2em;
